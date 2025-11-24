@@ -1,0 +1,20 @@
+{
+  "name": "com.thisis72.somlib",
+  "version": "0.1.0",
+  "displayName": "SoMLib",
+  "description": "SoMLib utilities - Event System and Tools",
+  "unity": "2021.3",
+  "dependencies": {},
+  "keywords": ["somlib", "event", "tools", "utilities"],
+  "author": {
+    "name": "thisis72",
+    "url": "https://github.com/thisis72"
+  },
+  "samples": [
+    {
+      "displayName": "Basic Event System",
+      "description": "Fixed and String event examples",
+      "path": "Samples~/Basic"
+    }
+  ]
+}
